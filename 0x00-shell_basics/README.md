@@ -1,1 +1,1 @@
-display current directory content including hidden numbers files
+create a script that creates a directory named my-first-directory in the tmpdirectory

@@ -1,7 +1,2 @@
-0-current
-0-current_working_directory
-1-listit
-bash
-_directory
-README.md
-_working
+#!/bin/bash
+ls

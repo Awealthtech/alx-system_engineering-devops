@@ -1,2 +1,1 @@
-#!/bin/bash
-Chmod --reference olleh hello
+script that set mode of file

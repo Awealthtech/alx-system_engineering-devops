@@ -1,1 +1,1 @@
-list period hidden character
+print type of a file

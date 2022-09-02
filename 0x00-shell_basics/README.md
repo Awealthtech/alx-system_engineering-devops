@@ -1,1 +1,1 @@
-future
+list period hidden character

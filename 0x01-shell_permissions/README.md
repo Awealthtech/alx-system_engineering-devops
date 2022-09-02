@@ -1,1 +1,4 @@
-script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+script that set the node of file hello to same as ollehs mode > README.md
+push
+i
+echo script that set the node of file hello to same as ollehs mode

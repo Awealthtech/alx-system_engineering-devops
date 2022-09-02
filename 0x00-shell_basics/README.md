@@ -1,1 +1,1 @@
-move all files that begin with uppercase
+clean emacs

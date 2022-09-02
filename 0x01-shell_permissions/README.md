@@ -1,1 +1,1 @@
-script that change group owner
+script that play starwars

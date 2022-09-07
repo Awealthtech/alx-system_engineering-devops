@@ -1,1 +1,1 @@
-smiley
+echo \"\(\Ôo\)\" smiley
